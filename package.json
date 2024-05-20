@@ -9,14 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@udecode/cn": "^33.0.0",
+    "@udecode/plate": "^33.0.5",
     "@udecode/plate-common": "^33.0.4",
+    "class-variance-authority": "^0.7.0",
+    "lucide-react": "^0.378.0",
     "next": "14.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "slate": "^0.103.0",
     "slate-history": "^0.100.0",
     "slate-hyperscript": "^0.100.0",
-    "slate-react": "^0.104.0"
+    "slate-react": "^0.104.0",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20",
